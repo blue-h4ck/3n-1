@@ -1,4 +1,4 @@
-# 3n-1
+# 3nplus1
 Math's problem 3n+1
 
 The 3n+1 problem, also known as the Collatz conjecture, is a simple mathematical problem that involves following a sequence of numbers. The problem is stated as follows:
